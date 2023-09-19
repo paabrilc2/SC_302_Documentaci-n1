@@ -1,2 +1,2 @@
-Alert(“Hola mundo”);
+Alert(“Hola mundo editado”);
 //Paso B poner mi comentario
